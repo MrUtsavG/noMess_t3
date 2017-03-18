@@ -1,0 +1,1 @@
+document.write("Let's Collaborate!");
