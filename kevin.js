@@ -1,1 +1,0 @@
-document.write("Hola! Bahar se Bhola, andar se Bhen ka Loda")

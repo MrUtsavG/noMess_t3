@@ -1,1 +1,0 @@
-console.log("And mand ka tola");
